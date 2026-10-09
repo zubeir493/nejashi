@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Nejashi",
+    "slug": "nejashi-digital-books",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "nejashi"
+  }
+}

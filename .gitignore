@@ -1,0 +1,29 @@
+# PHP / Laravel
+/apps/api/vendor/
+/apps/api/.env
+/apps/api/.env.*
+!/apps/api/.env.example
+/apps/api/.phpunit.cache/
+/apps/api/storage/*.key
+/apps/api/storage/logs/*.log
+/apps/api/public/storage
+/apps/api/bootstrap/cache/*.php
+
+# JavaScript / React Native
+**/node_modules/
+**/.expo/
+**/dist/
+**/build/
+**/coverage/
+/apps/mobile/ios/Pods/
+/apps/mobile/ios/build/
+/apps/mobile/android/.gradle/
+/apps/mobile/android/app/build/
+/apps/mobile/android/local.properties
+/apps/mobile/.bundle/
+/apps/mobile/*.keystore
+
+# Local tooling and OS files
+.DS_Store
+*.swp
+*.log
